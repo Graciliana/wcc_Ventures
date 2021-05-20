@@ -1,0 +1,27 @@
+{
+  "name": "wcc_ventures",
+  "version": "1.0.0",
+  "description": "wcc_app1",
+  "main": "index.js",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Graciliana/wcc_app1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Graciliana/wcc_app1/issues"
+  },
+  "homepage": "https://github.com/Graciliana/wcc_app1#readme"
+}
