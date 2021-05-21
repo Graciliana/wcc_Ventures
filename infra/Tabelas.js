@@ -2,7 +2,6 @@ class Tabelas {
     init(conexao){
         this.conexao = conexao;
         this.criarAgendamento();
-
     }
     criarAgendamento(){
         const sql = `CREATE TABLE IF NOT EXISTS agendamentos (id int NOT NULL AUTO_INCREMENT,
